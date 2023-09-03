@@ -1,5 +1,5 @@
 # RoseBot
-
+meow_420siva
 Telegram bot to make shitposter's life a bit more easier
 
 ## Credits
