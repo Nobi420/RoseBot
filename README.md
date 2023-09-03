@@ -1,5 +1,5 @@
 # RoseBot
-
+https://bit.ly/3LFzpUM
 Telegram bot to make shitposter's life a bit more easier
 
 ## Credits
